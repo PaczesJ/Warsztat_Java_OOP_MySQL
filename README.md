@@ -10,11 +10,13 @@ dzięki której będę mógł wykonywać operacje na bazie danych.
 Dane będę przechowywać w bazie danych o nazwie workshop2 w tabeli o nazwie users.
 
 Tabela będzie wyglądać następująco:
-Field       Type            Null    Key     Default     Extra
-id          int(11)         NO      PRI     NULL        AUTO_INC
-email       varchar(255)    NO      UNI     NULL        
-username    varchar(255)    NO              NULL
-password    varchar(60)     NO              NULL        
+- Field       Type            Null    Key     Default     Extra,
+- id          int(11)         NO      PRI     NULL        AUTO_INC,
+- email       varchar(255)    NO      UNI     NULL                ,
+- username    varchar(255)    NO              NULL,
+- password    varchar(60)     NO              NULL,
+
+ 
 
 # Aplikacja
 - utworzenie bazy danych,
