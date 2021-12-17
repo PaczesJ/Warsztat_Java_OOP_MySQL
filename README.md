@@ -12,7 +12,7 @@ Dane będę przechowywać w bazie danych o nazwie workshop2 w tabeli o nazwie us
 Tabela będzie wyglądać następująco:
 - Field       Type            Null    Key     Default     Extra,
 - id          int(11)         NO      PRI     NULL        AUTO_INC,
-- email       varchar(255)    NO      UNI     NULL                ,
+- email       varchar(255)    NO      UNI     NULL,
 - username    varchar(255)    NO              NULL,
 - password    varchar(60)     NO              NULL,
 
