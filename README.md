@@ -10,7 +10,6 @@ dzięki której będę mógł wykonywać operacje na bazie danych.
 Dane będę przechowywać w bazie danych o nazwie workshop2 w tabeli o nazwie users.
 
 Tabela będzie wyglądać następująco:
-+------------------+--------------+------+-----+---------+----------------+
 | Field            | Type         | Null | Key | Default | Extra          |
 +------------------+--------------+------+-----+---------+----------------+
 | id               | int(11)      | NO   | PRI | NULL    | auto_increment |
